@@ -1,5 +1,7 @@
 = happymapper
 
+NOTE: This project is no longer maintained. If you are interested in helping, let me know. There does seem to be a maintained fork (github.com/dam5s/happymapper).
+
 == DESCRIPTION:
 
 XML to object mapping library. I have included examples to help get you going. The specs should also point you in the right direction.
